@@ -7,9 +7,9 @@ Olimpia Milano - Cantù | 55-60
 
 $partite =[
     ['Lackers', 'celtics', 80, 75],
-    ['Lackers', 'celtics', 80, 75],
-    ['Lackers', 'celtics', 80, 75],
-    ['Lackers', 'celtics', 80, 75],
+    ['Clippers', 'Miami Heats', 102, 82],
+    ['Knight', 'Bulls', 97, 102],
+    ['wizzard', 'warriors', 98, 62],
 ];
 
 foreach ($partite as  $partita) {
