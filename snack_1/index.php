@@ -62,6 +62,5 @@ foreach ($partite as  $partita) {
     <title>Document</title>
 </head>
 <body>
-    <li></li>
 </body>
 </html>
